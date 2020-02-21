@@ -3,7 +3,7 @@
 from odoo import models, fields
 
 
- class academia(models.Model):
+class academia(models.Model):
      _name = 'academia.usuarios'
      _description = 'esta clase clase almacena los usuarios'
 

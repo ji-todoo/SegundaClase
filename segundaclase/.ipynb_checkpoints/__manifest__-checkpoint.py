@@ -24,11 +24,13 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        #'views/views.xml',
+        'views/vista_academia.xml',
         #'views/templates.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
       #  'demo/demo.xml',
     ],
+    
+    
 }

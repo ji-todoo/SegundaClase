@@ -11,7 +11,7 @@
       
     <!-- explicit list view definition -->
 
-    <record model="ir.ui.view" id="vista.alumnos">
+    <record model="ir.ui.view" id="vista_alumnos">
       <field name="name">Alumnos Lista</field>
       <field name="model">academia.usuarios</field>
       <field name="arch" type="xml">
